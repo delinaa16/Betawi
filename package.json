@@ -1,0 +1,11 @@
+{
+  "name": "betawi",
+  "version": "1.0.0",
+  "description": "Landing page for Betawi MVP",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static site, no build needed'"
+  },
+  "author": "",
+  "license": "MIT"
+}
